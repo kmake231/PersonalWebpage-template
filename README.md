@@ -22,7 +22,7 @@ A clean, single-page personal website template for academic and professional use
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ktyper231/PersonalWebpage-template.git
+   git clone https://github.com/kmake231/PersonalWebpage-template.git
    cd PersonalWebpage-template
    ```
 
@@ -38,7 +38,7 @@ A clean, single-page personal website template for academic and professional use
    bundle exec jekyll serve
    ```
 
-4. Open your browser and visit: [http://localhost:4000](http://localhost:4000)
+4. Open your browser and visit: http://localhost:{port} (default:4000)
 
 ## Deploy to GitHub Pages
 
