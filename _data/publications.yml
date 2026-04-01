@@ -1,5 +1,5 @@
 - title: "Paper Title One: A Novel Approach to XXX for YYY"
-  authors: "<strong>Your Name</strong>, Coauthor One, Coauthor Two*"
+  authors: "<strong>Nicholas Placeholder</strong>, Coauthor One, Coauthor Two*"
   venue: "Proceedings of the XYZ Conference on ABCDEF and GHIJKL (XXX)"
   year: 2000
   links:
@@ -14,7 +14,7 @@
       url: "#"
 
 - title: "Paper Title Two: Exploring the Impact of XXX on YYY"
-  authors: "Coauthor One*, <strong>Your Name</strong>, Coauthor Three"
+  authors: "Coauthor One*, <strong>Nicholas Placeholder</strong>, Coauthor Three"
   venue: "ABC Transactions on XXXX and YYYY"
   year: 2000
   links:
@@ -26,7 +26,7 @@
       url: "#"
 
 - title: "Paper Title Three: An Interactive Framework for XXX in YYY"
-  authors: "<strong>Your Name</strong>, Coauthor Two*"
+  authors: "<strong>Nicholas Placeholder</strong>, Coauthor Two*"
   venue: "XYZ Symposium on ABCDEF Software and Technology (ABC)"
   year: 2000
   links:

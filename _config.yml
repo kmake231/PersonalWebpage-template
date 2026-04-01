@@ -1,7 +1,7 @@
 #To start locally:
 # bundle exec jekyll serve
 # Site settings
-title: Your Name
+title: Nicholas Placeholder
 email: your.email@example.com
 description: >-
   Academic researcher and professional. Personal homepage showcasing
@@ -33,7 +33,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Your Name"
+  name   : "Nicholas Placeholder"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : " "
   links:

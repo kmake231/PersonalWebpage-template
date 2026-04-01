@@ -1,8 +1,8 @@
 ---
 ---
 
-Welcome! I am a XXX at the Department of XXX, XXX University. My research interests include XXX, XXX, and XXX.
+I work on systems that combine artificial intelligence, 3D representation, and engineering.
 
-I am passionate about XXX and XXX. I have experience in XXX, XXX, and XXX.
+I hold a B.S. in Computer Science from [Oxford University](https://www.ox.ac.uk//) and a Master of Science in Engineering from [Princeton University](https://www.princeton.edu/).
 
-Previously, I obtained my Bachelor's degree in XXX from XXX University in YYYY. I have also worked at XXX as a XXX.
+My experience includes generative AI, spatial representations, multi-agent systems, and electrical engineering. I enjoy exploring interdisciplinary problems and translating emerging algorithms into practical tools across different scenario.

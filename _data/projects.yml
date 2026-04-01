@@ -1,5 +1,5 @@
-- title: "Project Title One"
-  description: "Description of your first project. What it does, what technologies it uses, and what problem it solves."
+- title: "CampusConnect Student Portal"
+  description: "A full-stack web application that helps students manage courses, assignments, and club activities in one place. Features include user authentication, real-time notifications, event scheduling, and a responsive dashboard. Built with React, Node.js, Express, MongoDB, and Tailwind CSS."
   links:
     - label: "Demo"
       icon: "fas fa-fw fa-globe"
